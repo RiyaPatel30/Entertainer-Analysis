@@ -7,3 +7,5 @@ newspapers, magazines, and books. The entertainment industry is a group of
 sub-industries devoted to entertainment. The entertainment industry is used to
 describe the mass media companies that control the distribution and manufacture of
 mass media entertainment.
+
+Technology Used: Excel, Power BI
